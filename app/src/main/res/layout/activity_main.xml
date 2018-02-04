@@ -9,7 +9,7 @@
         android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="tel:010-1000-1000"
+        android:text="Write PDF file name."
         android:textSize="24dp" />
 
     <Button
@@ -17,5 +17,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="onButton1Clicked"
-        android:text="Call" />
+        android:text="OPEN" />
 </LinearLayout>
